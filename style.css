@@ -1,3 +1,7 @@
 p{
     color: red;
+    font-size: 34px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    background-color: aqua;
 }
